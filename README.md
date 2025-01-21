@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to my Github! 👋
 
 <!--
 **rickyyuan07/rickyyuan07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,6 +9,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 -->
+
+Hello! Here are some personal projects, course projects, homework, and self-learning repos. 
 
 - 🔭 I’m currently working on my Master's studies in computer vision.
 - 🌱 I’m currently learning Gaussian Splatting Models and their relevant topics.

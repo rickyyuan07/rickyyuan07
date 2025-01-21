@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 
-Hello! Here are some personal projects, course projects, homework, and self-learning repos. 
+Hello! Here are some personal projects, course projects, homework, my self-learning repos, and me. 
 
 - 🔭 I’m currently working on my Master's studies in computer vision.
 - 🌱 I’m currently learning Gaussian Splatting Models and their relevant topics.

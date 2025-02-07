@@ -14,6 +14,6 @@ Hello! Here are some personal projects, course projects, homework, my self-learn
 
 - 🔭 I’m currently working on my Master's studies in computer vision.
 - 🌱 I’m currently learning Gaussian Splatting Models and their relevant topics.
-- 🤔 I’m seeking help getting an internship role in the US - finding a job is so hard these days...
+- 🤔 I’m seeking help getting an internship role in the US - getting a job is so hard these days...
 - 📫 How to reach me: please message me on Linkedin or email me.
 - ⚡ Fun fact: Do you know Python 3.14 has been released? Or as I like to call it π-thon
